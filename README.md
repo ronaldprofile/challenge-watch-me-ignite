@@ -1,6 +1,6 @@
 <h1 align="center">Desafio: Componentizando a aplicação</h1>
 
-<img src="https://ik.imagekit.io/gczsuhmv3/ignite-to.do.png?updatedAt=1638236135083" alt="screenshot"/>
+<img src="https://ik.imagekit.io/gczsuhmv3/ignite-watch.me.png?updatedAt=1638283677770" alt="screenshot"/>
 
 ## Sobre o desafio
 
