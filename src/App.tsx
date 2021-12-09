@@ -12,17 +12,11 @@ export function App() {
   return (
     <div style={{ display: "flex", flexDirection: "row" }}>
       <SideBar
-        {...{
-          selectedGenreId,
-          setSelectedGenreId
-        }}
+        selectedGenreId={selectedGenreId}
+        setSelectedGenreId={setSelectedGenreId}
       />
 
-      <Content
-        {...{
-          selectedGenreId
-        }}
-      />
+      <Content selectedGenreId={selectedGenreId} />
     </div>
   );
 }
